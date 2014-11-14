@@ -24,6 +24,7 @@ foreach(glob('../admin/lib/js/jquery/*.js') as $js)  {
             <?php
         }
         ?>
+        <script type="text/javascript"  href="../admin/lib/js/fonctionsJquery.js"> </script>
     </head>
 <body>
     <section id="page">
